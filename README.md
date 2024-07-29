@@ -1,4 +1,10 @@
+![68747470733a2f2f692e6962622e636f2f6b35376a73446d2f636861746d6174652e706e67](https://github.com/user-attachments/assets/aebdad39-9bf8-4126-9366-ea80680c033d)
+
+
+
 # ChatMate AI
+
+![GUI](https://i.ibb.co/k57jsDm/chatmate.png)
 
 ChatMate AI is a user-friendly chatbot application that leverages OpenAI's powerful GPT-3.5 language model to provide interactive conversations. With ChatMate AI, users can engage in natural language conversations by entering prompts and receiving AI-generated responses.
 
@@ -28,13 +34,13 @@ ChatMate AI is built on Python, utilizing the Tkinter library to create a visual
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ChatMate-AI.git
+    git clone https://github.com/EXxZAM/ChatMate-AI.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ChatMate-AI
+    cd ChatMate-AI-master
     ```
 
 3. Install the required dependencies:
@@ -46,7 +52,7 @@ ChatMate AI is built on Python, utilizing the Tkinter library to create a visual
 4. Create a `.env` file in the project directory and add your OpenAI API key:
 
     ```text
-    OPENAI_API_KEY=your-api-key
+    API_KEY_GPT=your-api-key
     ```
 
 ## Usage
@@ -77,15 +83,11 @@ ChatMate AI is built on Python, utilizing the Tkinter library to create a visual
 
 11. To save the AI-generated response as a text file, click the "Save" button and choose a location to save the file.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 -   This application utilizes OpenAI's GPT-3.5 language model. For more information, visit the [OpenAI website](https://openai.com/).
 -   The graphical user interface is created using the Tkinter library for Python.
 
-## Disclaimer
+## Credits
 
-This application is provided as-is without any warranty. Usage of this application may be subject
+-   This project is made by parsa as an open-source project.
